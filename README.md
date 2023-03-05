@@ -2,10 +2,10 @@
 
 # Alumnos:
 
-Becerra Márquez Edgar Emmanuel \n
+*Becerra Márquez Edgar Emmanuel*
 Becerra Aguilera Missael Eduardo
 García Flores Hugo Martín 
 
-Grupo: 3MM3
+# Grupo: 3MM3
 
 
